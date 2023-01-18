@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="GarageManager">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/GarageManager/GarageManager.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

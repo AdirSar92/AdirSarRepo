@@ -1,5 +1,5 @@
 /**
- * @Author: Asaf Madari
+ * @Author: Adir Sarussi
  * @Reviewer: Omer Desezar
  * @Date: 29/08/2022
  * @Description: Composite design pattern implementation

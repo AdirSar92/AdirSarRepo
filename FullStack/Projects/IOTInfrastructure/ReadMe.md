@@ -9,7 +9,7 @@ IOT Infrastructure is a Java project that deals with collecting data updates fro
 
 1.Following the SOLID principles.
 
-2.Implement As Many Desigh Pattrens.
+2.Implement As Many Desigh Pattrens.(Observer,Startagey,Command,Singleton,Factory)
 
 3.Rest API
 

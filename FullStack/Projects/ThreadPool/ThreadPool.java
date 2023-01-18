@@ -1,5 +1,5 @@
 /**
- * @Author: Asaf Madari
+ * @Author: Adir Sarussi
  * @Reviewer: Tzach Halfon
  * @Date: 07/09/2022
  * @Description: Thread Pool implementation

@@ -1,5 +1,5 @@
 /**
- * @Author: Asaf Madari
+ * @Author: Adir Sarussi
  * @Reviewer: Tzach Halfon
  * @Date: 31/08/2022
  * @Description: Multithreaded priority queue implementation

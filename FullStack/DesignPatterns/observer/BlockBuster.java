@@ -1,9 +1,4 @@
-/**
- * @Author: Asaf Madari
- * @Reviewer: Tzach Halfon
- * @Date: 30/08/2022
- * @Description: Observer design pattern implementation
- */
+
 
 package il.co.ilrd.designpatterns.observer;
 

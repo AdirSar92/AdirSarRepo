@@ -1,5 +1,5 @@
 /**
- * @Author: Asaf Madari
+ * @Author: Adir Sarussi
  * @Reviewer: Omer Desezar
  * @Date: 03.08.22
  * @Description: Vending machine implemented as Finite state machine

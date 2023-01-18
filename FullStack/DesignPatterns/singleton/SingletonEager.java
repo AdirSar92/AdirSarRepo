@@ -1,5 +1,5 @@
 /**
- * @Author: Asaf Madari
+ * @Author: Adir Sarussi
  * @Reviewer: Tzach Halfon
  * @Date: 07.08.22
  * @Description: Singleton different implementations
